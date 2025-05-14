@@ -104,7 +104,7 @@ body {
   display: flex;
   align-items: center;
   gap: var(--space-2);
-  color: var(--primary);
+  color: #ff6e03;
 }
 
 .logo h1 {
@@ -145,7 +145,7 @@ body {
   position: absolute;
   top: -5px;
   right: -5px;
-  background-color: orange;
+  background-color: #ff6e03;
   color: var(--white);
   font-size: 2.25rem;
   font-weight: 700;
@@ -243,7 +243,7 @@ main {
 
 .price {
   padding: 0 var(--space-3) var(--space-3);
-  color: var(--primary);
+  color: #ff6e03;
   font-weight: 700;
   font-size: 1.25rem;
   text-align: center;
@@ -267,7 +267,7 @@ main {
 }
 
 .back-button {
-  background: var(--primary);
+  background: orangered;
   border: none;
   cursor: pointer;
   display: flex;
@@ -358,7 +358,7 @@ main {
 .detail-price {
   font-size: 2rem;
   font-weight: 700;
-  color: var(--primary);
+  color: #ff6e03;
   margin: var(--space-4) 0;
 }
 
@@ -405,7 +405,7 @@ main {
 .add-to-cart-btn {
   width: 100%;
   padding: var(--space-4);
-  background-color: orange;
+  background-color: #ff6e03;
   color: var(--white);
   border: none;
   border-radius: var(--radius-md);
